@@ -1,0 +1,11 @@
+email: teodor.boev@gmail.com
+fullname: My Name
+title: My Title
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$xXb0dxF3mfjAOJbhHD4tZ.GWJU/8Vl2ZLc2fJZglRDEjw94mXi9AG
